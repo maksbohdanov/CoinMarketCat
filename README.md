@@ -1,2 +1,2 @@
 # CoinMarketCat
-Info on cryptocurrencies
+This program displays various information related to cryptocurrencies. 
