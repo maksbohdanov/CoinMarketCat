@@ -1,5 +1,5 @@
 ﻿using Clients;
-using Domain.Models;
+using Domain.Entities;
 using Domain.Responses;
 using Newtonsoft.Json;
 using Services.Abstractions;
